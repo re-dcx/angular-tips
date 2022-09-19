@@ -1,4 +1,4 @@
-# Enum de campos de un dto
+# Enums de campos de un dto
 
 Cuando se defina una interfaz de dto, se debe definir también un enum con los campos del mismo. Por ejemplo el siguient dto:
 
