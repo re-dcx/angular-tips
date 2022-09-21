@@ -5,3 +5,4 @@
 
 - [¿Cómo usar enums desde la plantilla de un componente?](./tips/how-to-use-enums-from-template/index.md)
 
+- [Snippets personalizado en VSCode](./tips/vscode-snippets/index.md)
