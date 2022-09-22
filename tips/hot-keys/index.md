@@ -23,3 +23,9 @@ Muestra un listado de acciones disponibles como el siguiente:
 ![](./ctrl_shift_p.png)
 
 
+## `alt + u `, `alt + i `, y `alt + u`
+Permite navegar entre `ts`, `html`, y `scss` de un componente.
+Para que estos atajos funcionen es necesario instalar la extensión `angular2-switcher`. Para instalar dicha extensión pulsad `Ctrl + P` y escribid:
+```
+ext install infinity1207.angular2-switcher
+```
