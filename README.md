@@ -13,4 +13,4 @@
 
 - [Uso de `Run Task`](./tips/run-task-usage/index.md)
 
-- [Uso recomendado `log`](./tips/log-usage/)
+- [Uso recomendado `log`](./tips/log-usage/index.md)
