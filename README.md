@@ -8,3 +8,5 @@
 - [Snippets personalizado en VSCode](./tips/vscode-snippets/index.md)
 
 - [Recomendaciones cuando se usan diálogos](./tips/dialog-tips/index.md)
+
+- [Atajos de teclas recomendados](./tips/hot-keys/index.md)
