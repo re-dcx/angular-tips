@@ -12,3 +12,5 @@
 - [Atajos de teclas recomendados](./tips/hot-keys/index.md)
 
 - [Uso de `Run Task`](./tips/run-task-usage/index.md)
+
+- [Uso recomendado `log`](./tips/log-usage/)
