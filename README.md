@@ -10,3 +10,5 @@
 - [Recomendaciones cuando se usan diálogos](./tips/dialog-tips/index.md)
 
 - [Atajos de teclas recomendados](./tips/hot-keys/index.md)
+
+- [Uso de `Run Task`](./tips/run-task-usage/index.md)
