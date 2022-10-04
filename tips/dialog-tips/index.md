@@ -34,8 +34,8 @@ export class TradesRequestPortfolioDialogComponent {
 debería quedar así:
 ```ts
 @Component({
-  selector: 'app-trades-request-portfolio-dialog',
   templateUrl: 'trades-request-portfolio-dialog.component.html',
+  styleUrls: ['./trades-request-portfolio-dialog.component.scss']
 })
 export class TradesRequestPortfolioDialogComponent {
 //...
