@@ -2,7 +2,7 @@
 
 Angular 14 incorpora [un nuevo sistema para poder asignar tipos en los formularios.](https://angular.io/guide/typed-forms)
 
-Hasta ahora, cuando se creaba un formulario
+Hasta ahora, cuando se creaba un formulario se escribía código de este estilo:
 
 ```ts
 
@@ -45,7 +45,7 @@ form = this.formBuilder.group<{
   });
 ```
 
-Como se puede observar las únicas diferencias es que se han añadido los tipos que tiene cada control, y que la formula con FormBuilder es demasiado larga. A parte como podréis adivinar ahora se puede realizar las siguientes cosas;
+Como se puede observar las únicas diferencias es que se han añadido los tipos que tiene cada control, y que la formula con FormBuilder es demasiado larga (Por lo cual, de momento, lo recomendable será usar la versión sin FormBuilder). A parte como podréis adivinar ahora se puede realizar las siguientes cosas;
 
 - `form.value` devuelve una valor tipado en lugar de `any`. Lo que nos permitirá poder acceder por ejemplo a `form.value.phone_number` directamente sin necesidad de hacer un cast de hacer ningún cast.
 
