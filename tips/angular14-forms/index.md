@@ -2,7 +2,7 @@
 
 Angular 14 incorpora [un nuevo sistema para poder asignar tipos en los formularios.](https://angular.io/guide/typed-forms)
 
-Hasta ahora, cuando se creaba un formulario
+Hasta ahora, cuando se creaba un formulario se escribía código de este estilo:
 
 ```ts
 
