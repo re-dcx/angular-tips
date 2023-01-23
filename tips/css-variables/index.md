@@ -35,8 +35,8 @@ Por ejemplo si en un componente tuviésemos el siguiente código en el estilo de
 ```
 
 Podríamos añadir el siguiente código a `main.scss` el siguiente código:
-- En `main.scss`:
 ```scss
+  // main.scss
   @import "/src/main.scss";
   // ...
   :root {
@@ -45,8 +45,8 @@ Podríamos añadir el siguiente código a `main.scss` el siguiente código:
   }
 ```
 
-- En `foo.scss`:
 ```scss
+  // foo.component.scss
   .green-chip {
     background-color: var(--mat-green-500) !important;
   }
