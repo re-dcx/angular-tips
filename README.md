@@ -16,3 +16,5 @@
 - [Uso recomendado `log`](./tips/log-usage/index.md)
 
 - [Formularios en angular 14](./tips/angular14-forms/index.md)
+
+- [Css variables](./tips/css-variables/index.md)
