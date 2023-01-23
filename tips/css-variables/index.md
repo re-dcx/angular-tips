@@ -2,7 +2,7 @@
 
 En la construcción de una app angular se hace una serie de comprobaciones relativas al tamaño total de la aplicación y del tamaño individual de los estilos componentes. Esto tamaños están fijados en el fichero `angular.json` y podrían tener unos valores como sigue
 ```json
-...
+
   "budgets": [
     {
       "type": "initial",
