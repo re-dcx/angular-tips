@@ -24,7 +24,7 @@ const isEqual = _.isEqual(listOne, listTwo); // false
 Una solución podría es ordenar los arrays antes de compararlos.
 ```ts
 import * as _ from 'lodash';
-
+// ...
 const listOne = [1, 2, 3];
 const listTwo = [3, 2, 1];
 
@@ -35,7 +35,7 @@ Pero habría una forma más compacta de compararlos usando la función `_.xor`
 
 ```ts
 import * as _ from 'lodash';
-
+// ...
 const listOne = [1, 2, 3];
 const listTwo = [3, 2, 1];
 
