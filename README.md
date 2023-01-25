@@ -19,4 +19,4 @@
 
 - [Css variables](./tips/css-variables/index.md)
 
-- [Comparación de arrays desordenados con `lodash`](./tips/arrays_comparation_with_lodash/index.md)
+- [Comparación de arrays desordenados con `lodash`](./tips/arrays_comparison_with_lodash/index.md)
