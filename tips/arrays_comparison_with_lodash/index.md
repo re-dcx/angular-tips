@@ -41,5 +41,5 @@ const listTwo = [3, 2, 1];
 
 const result = _.xor(listOne, listTwo).length=0; // true
 ```
-La función `_.xor` devuelve los en los que se diferencian dos arrays por ejemplo  `_.xor([1,2], [2,3])` nos devolvería `[1,3]`. Por lo tanto, tal como podréis intuir, si la cantidad de elementos devueltos por `_.xor` es cero significa que las dos listas son iguales.
+La función `_.xor` devuelve los elementos en los que se diferencian dos arrays por ejemplo  `_.xor([1,2], [2,3])` nos devolvería `[1,3]`. Por lo tanto, tal como podréis intuir, si la cantidad de elementos devueltos por `_.xor` es cero significa que las dos listas son iguales.
 
